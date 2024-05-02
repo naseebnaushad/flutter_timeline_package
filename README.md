@@ -10,7 +10,7 @@ title: flutter timeline v2
 
 # flutter_timeline [![](https://img.shields.io/badge/pub-latest-brightgreen)](https://pub.dev/packages/flutter_timeline)
 
-![logo](docs/images/logo.png)
+![logo](doc/images/logo.png)
 
 Created based on flutter_timeline package from gridaco. I'm just keeping it updated for the flutter community.
 
@@ -84,13 +84,13 @@ _using anchor & offset_
 
 ## complex example
 
-<img src="docs/images/desk-ss-01.png" width="300"/>
+<img src="doc/images/desk-ss-01.png" width="300"/>
 
 ## simple example [(run it now!)](https://github.com/naseebnaushad/flutter_timeline_v2/)
 
-<img src="docs/images/mac-ss.png" width="500"/>
-<img src="docs/images/mac-ss-2.png" width="500"/>
-<img src="docs/images/mac-ss-3.png" width="500"/>
+<img src="doc/images/mac-ss.png" width="500"/>
+<img src="doc/images/mac-ss-2.png" width="500"/>
+<img src="doc/images/mac-ss-3.png" width="500"/>
 
 more documentation available at [github](https://github.com/naseebnaushad/flutter_timeline_v2/)
 
